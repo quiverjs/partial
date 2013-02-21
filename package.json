@@ -6,7 +6,7 @@
   },
   "name": "quiver-partial",
   "desription": "partial function application",
-  "version": "0.1",
+  "version": "0.0.1",
   "homepage": "https://github.com/quiverjs/partial",
   "repository": {
     "url": "git@github.com:quiverjs/partial.git"
@@ -15,5 +15,9 @@
     "url": "https://github.com/quiverjs/partial/issues",
     "email": "soares.chen@gmail.com"
   },
-  "main": "./partial"
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
+  },
+  "main": "./lib/partial"
 }
