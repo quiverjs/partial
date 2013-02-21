@@ -14,6 +14,6 @@
   "bugs": {
     "url": "https://github.com/quiverjs/partial/issues",
     "email": "soares.chen@gmail.com"
-  }
+  },
   "main": "./partial"
 }
